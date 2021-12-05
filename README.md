@@ -3,4 +3,6 @@ The code in COVID_Portfolio analyzes the covid-19 data from date 2020-01-01 to 2
 previously analyzed data to predict future trends.
 
 Link to Dataset: https://ourworldindata.org/covid-deaths
+
+
 Link to Tableau Dashboard : https://public.tableau.com/views/CovidCaseStudy_16367052767600/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
